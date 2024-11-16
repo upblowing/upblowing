@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/upblowing"><img src="https://img.shields.io/github/followers/upblowing?style=for-the-badge"></img></a>
+  <a href="https://github.com/upblowing"><img src="https://img.shields.io/github/stars/upblowing?style=for-the-badge"></img></a>
+</p>
 
-<!--
-**upblowing/upblowing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/upblowing"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3675A8"></a>
+  <a href="https://github.com/upblowing"><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript"></a>
+  <a href="https://github.com/upblowing"><img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=4D588E"></a>
+  <a href="https://github.com/upblowing"><img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=6295CB"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://count.getloli.com/get/@:upblowing" alt=":upblowing" /></p>
