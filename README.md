@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-    <img src="https://jpeg.lat/image/XEFyVcCqmb.jpg" alt="Profile Picture" style="width: 150px; height: auto;" />
+    <img src="https://avatars.githubusercontent.com/u/172985437?v=4" alt="Profile Picture" style="width: 150px; height: auto;" />
     <br>
     <br>
     <span style="font-size: 16px; font-weight: bold;">lucian</span>
